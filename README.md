@@ -1,5 +1,6 @@
 # PANGGOGI.GitHub.io
 
++ 2020-03-26 [Tech Talk Series](https://twitter.com/YaiPangGoGii/status/1244954515607973888)
 + 2020-02-29 [Azure Multi-Cloud](https://twitter.com/YaiPangGoGii/status/1244907220527017984)
 + 2020-01-27 [Operation BSU](https://twitter.com/YaiPangGoGii/status/1221674640289873920)
 + 2020-01-15 [Cloud Security-TDG](https://twitter.com/YaiPangGoGii/status/1217451916214423552)
